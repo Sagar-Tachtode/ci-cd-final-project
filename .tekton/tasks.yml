@@ -4,7 +4,7 @@ metadata:
   name: nose-with-cleanup-debug
 spec:
   workspaces:
-    - name: source
+    - name: output
   params:
     - name: args
       description: Arguments to pass to nose
