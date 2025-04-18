@@ -1,5 +1,5 @@
 # CI/CD Tools and Practices Final Project Template
-
+![Build Status](https://github.com/Sagar-Tachtode/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
 
 ## Usage
